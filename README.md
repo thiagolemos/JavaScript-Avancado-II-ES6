@@ -1,4 +1,4 @@
-# JavaScript-Avancado-II-ES6
+# JavaScript Avançado II ES6
 Curso JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos
 
 # Conteudo do curso :
